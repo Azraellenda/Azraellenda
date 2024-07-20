@@ -36,5 +36,5 @@
   </center><br>
 <center>
   <button><a href="https://www.instagram.com/cafe_vigor?igsh=NjVtM2NwdzFoYXlm"><strong>MEU INSTAGRAM</strong></a></button></center><br>
-  </body>
+</body>
 </html>
