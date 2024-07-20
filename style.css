@@ -1,0 +1,39 @@
+body{
+  background-image: url('https://i.im.ge/2024/06/18/Kkrds4.Picsart-24-06-13-18-04-32-439.jpeg');
+  background-position: center;
+}
+h1{
+  font-family: Georgia;
+  font-style: italic;
+}
+p{
+  font-style: italic;
+  border: solid 5px red;
+  color:white;
+}
+button{
+  height: 100px;
+  width: 200px;
+  background: brown;
+  border: solid 5px;
+  border-radius: 20px;
+}
+img{
+  border: solid 5px black;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+h1{
+  color: white;
+}
+h2{
+  color: white;
+}
+.produto {
+  border-radius: 100px;
+}
+.colorCod{
+  color: white;
+}
